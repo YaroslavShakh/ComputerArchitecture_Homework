@@ -1,5 +1,5 @@
 .model small
-
+; test commit
 .data
   array dw 10 DUP(0)
 
